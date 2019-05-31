@@ -1,0 +1,59 @@
+#Articulo{
+text-align: center;
+font-weight: bold;
+font-family: "xd";
+text-decoration: underline white;
+color: white
+}
+#Subtitulo{
+    text-decoration: underline white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+.parrafo{
+    font-family: "xD";
+    color:white
+}
+#rojo{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Anaranjado{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#table{
+    position: 121;
+    top:100;
+    bottom: 20;
+    left: 500;
+    margin: auto;
+    color: white
+}
+#cuadro{
+    text-decoration: underline white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+#lista{
+    text-decoration: underline white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+.caja{
+    width: 1440px;
+    height: 650px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background: url(./img/background2-1024x640.jpg)
+}
+@font-face{
+    font-family: "xD";
+    src: url(./fuente/Rowland-Bold.otf)
+}
+@font-face{
+    font-family: "xd";
+    src: url(./fuente/Rowland-Light.otf)
